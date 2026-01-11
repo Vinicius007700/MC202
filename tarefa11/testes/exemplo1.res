@@ -1,0 +1,9 @@
+0 a distancia 0: acesa
+3 a distancia 1: acesa
+2 a distancia 2: queimada
+4 a distancia 3: queimada
+6 a distancia 3: queimada
+5 a distancia 4: apagada
+1 a distancia 5: queimada
+8 a distancia 6: queimada
+9 a distancia 6: queimada

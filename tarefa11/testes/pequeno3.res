@@ -1,0 +1,14 @@
+12 a distancia 0: acesa
+1 a distancia 1: queimada
+13 a distancia 1: acesa
+0 a distancia 2: queimada
+2 a distancia 2: queimada
+6 a distancia 3: queimada
+10 a distancia 3: queimada
+3 a distancia 4: queimada
+7 a distancia 4: queimada
+8 a distancia 4: queimada
+9 a distancia 4: queimada
+4 a distancia 5: queimada
+5 a distancia 5: queimada
+11 a distancia 5: queimada
