@@ -1,0 +1,35 @@
+inserir g 0
+inserir t 0
+inserir t 0
+inserir c 0
+inserir g 1
+imprimir
+inserir g 0
+inserir a 1
+inserir a 7
+inserir t 4
+inverter-prefixo 4
+inserir c 4
+inserir g 10
+inserir c 2
+inserir c 12
+inverter-prefixo 3
+inserir g 10
+inserir g 10
+inserir a 12
+inserir t 5
+inverter-sufixo 4
+inserir a 8
+inserir a 18
+inserir c 14
+inserir g 4
+inverter-sufixo 7
+inserir a 2
+inserir c 2
+inserir g 4
+inserir c 22
+inserir t 9
+inserir c 25
+inserir c 25
+imprimir
+sair

@@ -1,0 +1,16 @@
+inserir t 0
+inserir c 0
+inserir g 0
+inserir t 0
+inserir g 0
+inserir a 2
+inserir c 0
+inserir a 4
+inserir t 7
+remover 2
+inverter-prefixo 5
+inverter-sufixo 3
+transpor 2 3 3
+transpor 4 7 -2
+imprimir
+sair

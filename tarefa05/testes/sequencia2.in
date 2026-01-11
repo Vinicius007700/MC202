@@ -1,0 +1,22 @@
+inserir c 0
+imprimir
+inserir g 0
+inserir g 2
+inserir g 1
+inserir c 0
+inserir g 1
+inserir a 0
+imprimir
+inserir a 3
+inserir g 2
+inserir g 1
+inserir a 5
+imprimir
+inserir c 9
+imprimir
+inserir a 8
+inserir c 13
+inserir c 7
+remover 13
+imprimir
+sair

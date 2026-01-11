@@ -1,0 +1,19 @@
+inserir a 0
+inserir c 0
+inserir a 2
+inserir a 2
+inserir g 3
+inserir a 3
+inserir t 6
+imprimir
+inserir a 5
+inserir a 3
+inserir g 7
+transpor 1 8 1
+inserir t 5
+inserir g 8
+inserir c 8
+remover 10
+inserir a 4
+imprimir
+sair

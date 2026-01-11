@@ -1,0 +1,21 @@
+inserir g 0
+inserir t 1
+inserir c 1
+inserir t 2
+inserir t 2
+inserir c 0
+inserir a 4
+inserir a 2
+inserir c 6
+imprimir
+inserir a 1
+inserir c 6
+inserir a 1
+inserir t 1
+inserir a 9
+inserir c 1
+inserir a 0
+inserir a 6
+transpor 13 14 -8
+imprimir
+sair

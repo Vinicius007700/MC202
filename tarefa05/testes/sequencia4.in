@@ -1,0 +1,40 @@
+inserir c 0
+inserir g 1
+inserir t 1
+inserir c 1
+inserir a 1
+inserir g 2
+inserir g 2
+remover 4
+inserir g 2
+inserir t 4
+imprimir
+inserir a 5
+inserir t 7
+inverter-prefixo 2
+inserir a 10
+inserir c 9
+imprimir
+inserir t 5
+inserir a 7
+transpor 12 13 -10
+inserir t 7
+inserir g 6
+inverter-prefixo 2
+inserir t 7
+inserir t 12
+inverter-prefixo 7
+inserir g 10
+inserir c 4
+inverter-sufixo 7
+inserir a 15
+inserir t 5
+remover 15
+inserir a 16
+inserir g 16
+inverter-prefixo 11
+inserir c 6
+inserir a 5
+inverter-sufixo 6
+imprimir
+sair
