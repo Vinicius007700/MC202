@@ -1,0 +1,17 @@
+abrir 13
+registrar Pedro_Teixeira N70 939192
+registrar Joao_Ferreira B69 320236
+registrar Pedro_Batista F21 839714
+registrar Pedro_Silva R07 252024
+registrar Ana_Almeida S88 224831
+registrar Carlos_Pereira O15 368437
+registrar Paulo_Silva T16 903908
+registrar Sonia_Silva E29 451105
+registrar Marcos_Almeida J11 904319
+registrar Sandra_Silva F34 320236
+registrar Ana_Barbosa D03 881779
+registrar Marcelo_Oliveira H16 881779
+registrar Joao_Oliveira S01 766602
+remover Pedro_Batista
+remover Ana_Almeida
+fechar
