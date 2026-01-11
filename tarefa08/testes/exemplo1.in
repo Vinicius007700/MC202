@@ -1,0 +1,11 @@
+100
+i 35 42 Chicago
+i 52 10 Mobile
+i 62 77 Toronto
+i 82 65 Buffalo
+b 62 77
+r 82 65
+b 82 65
+i 82 65 Buffalo
+o 80 75 20
+s

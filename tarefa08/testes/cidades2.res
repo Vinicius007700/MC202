@@ -1,0 +1,25 @@
+Cidade C001 inserida no ponto (8,57).
+Cidade C002 inserida no ponto (60,90).
+Cidade C003 inserida no ponto (65,28).
+Cidade C004 inserida no ponto (56,36).
+Cidade C005 inserida no ponto (51,59).
+Cidade C006 inserida no ponto (78,22).
+Cidade C007 inserida no ponto (7,63).
+Cidade C008 inserida no ponto (35,46).
+Cidade C009 inserida no ponto (82,58).
+Cidade C005 encontrada no ponto (51,59).
+Cidade C010 inserida no ponto (98,31).
+Cidade C011 inserida no ponto (68,15).
+Cidade C012 inserida no ponto (61,23).
+Cidade C013 inserida no ponto (31,74).
+Cidade C014 inserida no ponto (14,46).
+Cidade C015 inserida no ponto (22,14).
+Cidade C016 inserida no ponto (8,67).
+Cidade C017 inserida no ponto (2,70).
+Nenhuma cidade encontrada no ponto (78,4).
+Cidade C018 inserida no ponto (99,99).
+Cidade C019 inserida no ponto (78,4).
+Cidade C004 encontrada no ponto (56,36).
+Nenhuma cidade encontrada no ponto (50,48).
+Cidade C002 encontrada no ponto (60,90).
+Sistema encerrado.
